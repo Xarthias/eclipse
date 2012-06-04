@@ -11,8 +11,8 @@ import java.sql.*;
 		 */
 		private static String url = "jdbc:mysql://xarthias.kylos.pl:3306/";
 		private static String base = "xarthias_mpr";
-		private static String user = "xarthias_admin";
-		private static String pass = "KVkf0114";
+		private static String user = "xarthias_mpr";
+		private static String pass = "Dupa123";
 		
 		public void addTracksRecord(String loc, String tr, String co, int l,	int s, int e, int c) {
 				try {
